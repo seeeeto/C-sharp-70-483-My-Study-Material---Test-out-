@@ -1,0 +1,10 @@
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking the user interface1.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking_the_user_interface1.Form1.resources
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking_the_user_interface1.Properties.Resources.resources
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking the user interface1.csproj.GenerateResource.cache
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking the user interface1.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\bin\Debug\Blocking the user interface1.exe.config
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\bin\Debug\Blocking the user interface1.exe
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\bin\Debug\Blocking the user interface1.pdb
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking the user interface1.exe
+C:\Users\testout\source\repos\Blocking the user interface1\Blocking the user interface1\obj\Debug\Blocking the user interface1.pdb
