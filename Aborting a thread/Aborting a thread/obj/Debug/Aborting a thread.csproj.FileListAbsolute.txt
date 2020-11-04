@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\bin\Debug\Aborting a thread.exe.config
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\bin\Debug\Aborting a thread.exe
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\bin\Debug\Aborting a thread.pdb
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\obj\Debug\Aborting a thread.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\obj\Debug\Aborting a thread.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\obj\Debug\Aborting a thread.exe
+C:\Users\testout\source\repos\Aborting a thread\Aborting a thread\obj\Debug\Aborting a thread.pdb

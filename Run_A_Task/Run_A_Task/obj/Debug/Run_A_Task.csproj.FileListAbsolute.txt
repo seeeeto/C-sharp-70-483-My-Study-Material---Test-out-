@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\bin\Debug\Run_A_Task.exe.config
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\bin\Debug\Run_A_Task.exe
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\bin\Debug\Run_A_Task.pdb
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\obj\Debug\Run_A_Task.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\obj\Debug\Run_A_Task.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\obj\Debug\Run_A_Task.exe
+C:\Users\testout\source\repos\Run_A_Task\Run_A_Task\obj\Debug\Run_A_Task.pdb

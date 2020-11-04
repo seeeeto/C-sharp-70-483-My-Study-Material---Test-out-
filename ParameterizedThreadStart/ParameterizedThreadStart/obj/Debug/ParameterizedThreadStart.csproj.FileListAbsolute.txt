@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\bin\Debug\ParameterizedThreadStart.exe.config
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\bin\Debug\ParameterizedThreadStart.exe
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\bin\Debug\ParameterizedThreadStart.pdb
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\obj\Debug\ParameterizedThreadStart.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\obj\Debug\ParameterizedThreadStart.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\obj\Debug\ParameterizedThreadStart.exe
+C:\Users\testout\source\repos\ParameterizedThreadStart\ParameterizedThreadStart\obj\Debug\ParameterizedThreadStart.pdb

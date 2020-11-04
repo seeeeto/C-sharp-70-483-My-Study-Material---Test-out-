@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\bin\Debug\Continuation_Tasks.exe.config
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\bin\Debug\Continuation_Tasks.exe
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\bin\Debug\Continuation_Tasks.pdb
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\obj\Debug\Continuation_Tasks.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\obj\Debug\Continuation_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\obj\Debug\Continuation_Tasks.exe
+C:\Users\testout\source\repos\Continuation_Tasks\Continuation_Tasks\obj\Debug\Continuation_Tasks.pdb

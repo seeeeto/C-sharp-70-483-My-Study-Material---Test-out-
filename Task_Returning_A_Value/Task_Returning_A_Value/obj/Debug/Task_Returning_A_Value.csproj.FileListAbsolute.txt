@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\bin\Debug\Task_Returning_A_Value.exe.config
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\bin\Debug\Task_Returning_A_Value.exe
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\bin\Debug\Task_Returning_A_Value.pdb
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\obj\Debug\Task_Returning_A_Value.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\obj\Debug\Task_Returning_A_Value.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\obj\Debug\Task_Returning_A_Value.exe
+C:\Users\testout\source\repos\Task_Returning_A_Value\Task_Returning_A_Value\obj\Debug\Task_Returning_A_Value.pdb

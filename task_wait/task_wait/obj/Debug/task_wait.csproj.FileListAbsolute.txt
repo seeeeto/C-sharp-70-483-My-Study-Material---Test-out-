@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\task_wait\task_wait\bin\Debug\task_wait.exe.config
+C:\Users\testout\source\repos\task_wait\task_wait\bin\Debug\task_wait.exe
+C:\Users\testout\source\repos\task_wait\task_wait\bin\Debug\task_wait.pdb
+C:\Users\testout\source\repos\task_wait\task_wait\obj\Debug\task_wait.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\task_wait\task_wait\obj\Debug\task_wait.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\task_wait\task_wait\obj\Debug\task_wait.exe
+C:\Users\testout\source\repos\task_wait\task_wait\obj\Debug\task_wait.pdb
