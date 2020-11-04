@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\AsParallel\AsParallel\bin\Debug\AsParallel.exe.config
+C:\Users\testout\source\repos\AsParallel\AsParallel\bin\Debug\AsParallel.exe
+C:\Users\testout\source\repos\AsParallel\AsParallel\bin\Debug\AsParallel.pdb
+C:\Users\testout\source\repos\AsParallel\AsParallel\obj\Debug\AsParallel.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\AsParallel\AsParallel\obj\Debug\AsParallel.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\AsParallel\AsParallel\obj\Debug\AsParallel.exe
+C:\Users\testout\source\repos\AsParallel\AsParallel\obj\Debug\AsParallel.pdb

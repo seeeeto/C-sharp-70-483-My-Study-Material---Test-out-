@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\bin\Debug\Parallel_LINQ.exe.config
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\bin\Debug\Parallel_LINQ.exe
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\bin\Debug\Parallel_LINQ.pdb
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\obj\Debug\Parallel_LINQ.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\obj\Debug\Parallel_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\obj\Debug\Parallel_LINQ.exe
+C:\Users\testout\source\repos\Parallel_LINQ\Parallel_LINQ\obj\Debug\Parallel_LINQ.pdb

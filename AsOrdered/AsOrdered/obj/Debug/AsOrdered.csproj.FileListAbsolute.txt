@@ -1,0 +1,6 @@
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\bin\Debug\AsOrdered.exe.config
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\bin\Debug\AsOrdered.exe
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\bin\Debug\AsOrdered.pdb
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\obj\Debug\AsOrdered.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\obj\Debug\AsOrdered.exe
+C:\Users\testout\source\repos\AsOrdered\AsOrdered\obj\Debug\AsOrdered.pdb

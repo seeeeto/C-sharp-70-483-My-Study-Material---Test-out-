@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Create a task\Create a task\bin\Debug\Create a task.exe.config
+C:\Users\testout\source\repos\Create a task\Create a task\bin\Debug\Create a task.exe
+C:\Users\testout\source\repos\Create a task\Create a task\bin\Debug\Create a task.pdb
+C:\Users\testout\source\repos\Create a task\Create a task\obj\Debug\Create a task.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Create a task\Create a task\obj\Debug\Create a task.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Create a task\Create a task\obj\Debug\Create a task.exe
+C:\Users\testout\source\repos\Create a task\Create a task\obj\Debug\Create a task.pdb

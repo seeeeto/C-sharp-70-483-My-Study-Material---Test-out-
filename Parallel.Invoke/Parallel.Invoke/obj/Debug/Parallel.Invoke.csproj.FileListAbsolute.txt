@@ -1,0 +1,6 @@
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\obj\Debug\Parallel.Invoke.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\bin\Debug\Parallel_Invoke.exe.config
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\bin\Debug\Parallel_Invoke.exe
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\bin\Debug\Parallel_Invoke.pdb
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\obj\Debug\Parallel_Invoke.exe
+C:\Users\testout\source\repos\Parallel.Invoke\Parallel.Invoke\obj\Debug\Parallel_Invoke.pdb

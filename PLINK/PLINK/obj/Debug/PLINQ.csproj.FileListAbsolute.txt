@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\PLINK\PLINK\bin\Debug\PLINK.exe.config
+C:\Users\testout\source\repos\PLINK\PLINK\bin\Debug\PLINK.exe
+C:\Users\testout\source\repos\PLINK\PLINK\bin\Debug\PLINK.pdb
+C:\Users\testout\source\repos\PLINK\PLINK\obj\Debug\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\PLINK\PLINK\obj\Debug\PLINK.exe
+C:\Users\testout\source\repos\PLINK\PLINK\obj\Debug\PLINK.pdb
+C:\Users\testout\source\repos\PLINK\PLINK\obj\Debug\PLINQ.csprojAssemblyReference.cache
