@@ -1,0 +1,7 @@
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe.config
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\bin\Debug\Parallel_ForEach.pdb
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\obj\Debug\Parallel_ForEach.csprojAssemblyReference.cache
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\obj\Debug\Parallel_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\obj\Debug\Parallel_ForEach.exe
+C:\Users\testout\source\repos\Parallel_ForEach\Parallel_ForEach\obj\Debug\Parallel_ForEach.pdb

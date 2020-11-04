@@ -1,0 +1,6 @@
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\bin\Debug\Parallel_For.exe.config
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\bin\Debug\Parallel_For.exe
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\bin\Debug\Parallel_For.pdb
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\obj\Debug\Parallel_For.csproj.CoreCompileInputs.cache
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\obj\Debug\Parallel_For.exe
+C:\Users\testout\source\repos\Parallel_For\Parallel_For\obj\Debug\Parallel_For.pdb
